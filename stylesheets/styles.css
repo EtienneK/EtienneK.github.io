@@ -2,18 +2,20 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:14px/1.5 Georgia, serif;
+  color:#444;
   font-weight:300;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, strong {
+  font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
   margin:0 0 20px;
+  font-variant:small-caps;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 11px;
 }
 
 h1, h2, h3 {
@@ -40,12 +42,12 @@ a {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#444;
   margin-top:-0.6em;
   display:block;
 }
 
-.wrapper {
+.wrapper, #container {
   width:860px;
   margin:0 auto;
 }
@@ -185,7 +187,7 @@ footer {
 
 @media print, screen and (max-width: 960px) {
   
-  div.wrapper {
+  div.wrapper, div#container {
     width:auto;
     margin:0;
   }
@@ -253,3 +255,14 @@ footer {
     color:#444;
   }
 }
+
+#contact {
+    float: right;
+    text-align: right;
+}
+
+#contact p {
+    margin: .5em;
+    font-size: 110%;
+}
+
