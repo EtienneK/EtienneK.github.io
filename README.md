@@ -1,4 +1,3 @@
-EtienneK.github.io
-==================
+# EtienneK.github.io
 
-My personal site - www.etiennek.com
+My personal site - [www.etiennek.com](http://www.etiennek.com)
