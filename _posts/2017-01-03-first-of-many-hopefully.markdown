@@ -6,8 +6,8 @@ categories: general
 ---
 So this is my first post. First of many, hopefully!
 
-I've tried blogging before, but it just never stuck. Hopefully this time is different!
+I've tried blogging before, but it just never stuck. Hopefully this time it is different!
 
-The reason I started this blog is because I really wanted to start writing again. I used to write a lot when I was in high-school, but for some reason I just stopped. So now, with the new year, one of my resolutions was to start writing again. And here we are.
+The reason I started this blog was because I really wanted to start writing again. I used to write a lot when I was in high-school, but for some reason I just stopped. So now, with the the dawn of the new year, one of my resolutions was to start writing again. And here we are!
 
 So let's hope this time it sticks!
