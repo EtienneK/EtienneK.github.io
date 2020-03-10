@@ -1,0 +1,15 @@
+{
+  "name": "etiennek.com",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.3.0",
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
+  }
+}
