@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://www.etiennek.com">etiennek.com</a>.
+        <a href="https://www.etiennek.com">etiennek.com</a>
       </h1>
 
       <p className="description">
@@ -17,7 +17,7 @@ const Home = () => (
       </p>
 
       <a href="/cv.pdf" className="card card-hover">
-        <h3>Download my Curriculum Vitae &rarr;</h3>
+        <h3>Download my CV &rarr;</h3>
       </a>
 
       <div className="card">
@@ -106,7 +106,7 @@ const Home = () => (
       .title {
         margin: 0;
         line-height: 1.15;
-        font-size: 4rem;
+        font-size: 3rem;
       }
 
       .title,
@@ -116,7 +116,7 @@ const Home = () => (
 
       .description {
         line-height: 1.5;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
       }
 
       li {
@@ -133,7 +133,7 @@ const Home = () => (
         border: 1px solid #eaeaea;
         border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease;
-        width: 600px;
+        width: 500px;
       }
 
       .card-hover {
@@ -149,7 +149,7 @@ const Home = () => (
 
       .card h3 {
         margin: 0 0 0 0;
-        font-size: 1.5rem;
+        font-size: 1.3rem;
       }
 
       .card p {
@@ -158,7 +158,7 @@ const Home = () => (
         line-height: 1.5;
       }
 
-      @media (max-width: 700px) {
+      @media (max-width: 600px) {
         .card {
           width: 100%;
           flex-direction: column;
