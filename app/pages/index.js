@@ -40,7 +40,7 @@ const Home = () => (
     </main>
 
     <footer>
-      <a href="https://www.etiennek.com">etiennek.com</a>&nbsp;- The personal website of Etienne Koekemoer.
+      <a href="https://www.etiennek.com">etiennek.com</a>
     </footer>
 
     <style jsx>{`
