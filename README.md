@@ -9,5 +9,3 @@ npm run build
 cd ..
 git push origin master
 ```
-
-.
